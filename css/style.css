@@ -1,0 +1,190 @@
+body{
+     background-color: #eb1765;
+     text-align:center;
+}
+h1{
+      font-size:50px;
+      color:#fff;
+      margin-bottom:0;
+}
+p{
+      color:#fff;
+      font-size:25px;
+      
+}
+.clearfix{
+       content:"";
+       clear:both;
+       display:block;
+}
+
+/* first div starts */
+.First{
+      width:80%;
+      height:500px;
+      background-color: #fff;
+      margin:0 auto;
+}
+.First h3{
+      text-align:left;
+      font-weight:200;
+      margin-left:50px;
+      font-size:35px;
+}
+.First img{
+      width:30%;
+      margin-left:50px;
+}
+.First img{
+      float:left;
+}
+.First .para{
+       float:left;
+       color:gray;
+       width:500px;
+       margin-left:30px;
+       text-align: justify;
+}
+
+/* projects starts here */
+
+.Projects{
+     clear:both;
+     width:80%;
+     height:500px;
+     background-color: #fff;
+     margin:0 auto;
+
+}
+.Projects {
+       text-align:center;
+
+}
+.Projects h3,.social-media h3{
+      text-align:left;
+      position:relative;
+      top:20px;
+      margin-left:30px;
+      color:black;
+}
+.box1{
+       width:30%;
+       float:left;
+       margin-left:30px;
+       margin-top:20px;
+}
+.box1 img{
+       width:100%;
+
+}
+.box1 a:hover{
+         background-color: #eb1765;
+}
+.box1 h4{
+          text-align:left;
+          text-decoration: none;
+          color:black;
+}
+.box1 span{
+      display:block;
+       text-align:left;
+       text-decoration:none;
+       color:black;
+}
+
+/* Education starts */
+
+.education {
+      clear:both;
+      width:80%;
+      background-color: #fff;
+      margin:0 auto;
+      color:black;
+      height:300px;
+        
+}
+.education h3{
+         text-align:left;
+         margin-left:30px;
+         position:relative;
+         top:30px;
+      
+         
+}
+.b1{
+       width:45%;
+       float:left;
+       margin-top:40px;
+       
+}
+.b1 p{
+       color:black
+}
+
+/* Projects image starts */
+
+.projects-images{
+         width:80%;
+         background-color: #fff; 
+         margin:0 auto;
+         margin-top:30px;
+}
+.projects-images img{
+          width:60%;
+          padding:60px;
+
+}
+
+/* Social media starts */
+
+.social-media{
+        width:80%;
+        background-color: #fff;
+        margin:0 auto;
+        margin-top:30px;
+        height:200px;
+}
+.social-media form input{
+             margin-top:90px;
+             margin-left:80px;
+             
+}
+
+/* contact starts */
+
+.contact {
+        width:80%;
+        background-color: #fff;
+        margin:0 auto;
+        margin-top:30px;
+        height:300px;
+}
+.contact1{
+        width:80%;
+        margin:left;
+        padding:30px;
+        position:relative;
+        top:10px;
+}
+.contact1 form input {
+         width:86%;
+         height:30px;
+         background-color:lightgray;
+         border-radius:10px;
+         border:0;
+}
+form textarea{
+           background-color: lightgrey;
+           border-radius:10px;
+           border:0;
+}
+form button{
+        width:120px;
+        height:50px;
+        background-color: #eb1765;
+        border:0;
+        border-radius:20px;
+        color:lightgrey;
+        float:left;
+        margin-left:50px;
+}
